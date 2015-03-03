@@ -1,0 +1,24 @@
+<html> 
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css"> 
+.container{margin:0 auto;width: 750px;margin-top:50px; } 
+.main{border-top: 2px solid gray;border-bottom: 2px solid gray;padding: 30px 5px;}
+</style> 
+</head> 
+<body> 
+<div class="container">
+	<div class="main">
+		<h4>尊敬的Sunyson</h4>
+		<p>您在访问良粮网(<a href="http://www.goograin.com/" target="_blank">http://www.goograin.com/</a>)时点击了找回密码链接，这是一封密码重置确认邮件。如果您并未尝试修改密码，请忽略本邮件。<p> 
+		<p>您可以通过点击以下链接重置账户密码(基于安全考虑，本链接24小时内有效)。</p>
+		<p><a href="">点击这里修改密码</a></p>
+		如果您遇到问题，请访问帮助中心。
+	</div>
+	<div>
+		<p>本邮件是系统自动发送，请勿直接回复！</p>
+		苏州市粮食批发交易市场服务有限公司版权所有 苏ICP备13002358号-1
+	</div>
+</div>  
+</body> 
+</html> 
